@@ -2,7 +2,7 @@ import time
 import pygame
 from pygame import *
 
-WIN_WIDTH = 800
+WIN_WIDTH = 900
 WIN_HEIGHT = 640
 DISPLAY = (WIN_WIDTH, WIN_HEIGHT)
 
